@@ -3,26 +3,23 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3459782106934381/5746501721",
-      "main_ads_intertitial":"ca-app-pub-3459782106934381/5417051436",
+      "main_ads_banner": "ca-app-pub-3459782106934381/6988382899",
+      "main_ads_intertitial":"ca-app-pub-3459782106934381/2857566198",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "jira Software",
+      "high_paying_keyword_1": "evanto",
       "high_paying_keyword_2": "flutter",
       "high_paying_keyword_3": "adobe Photoshop",
       "high_paying_keyword_4": "istock",
       "high_paying_keyword_5": "shutterstock",
-      "high_paying_keyword_6": "fiver",
-      "high_paying_keyword_7": "evanto",
-      "high_paying_keyword_8": "clould",
       "status_app": "0",
       "link_redirect": "https://"
-      }
-   ],
-  "More":
+    }
+  ],
+   "More":
   [
     {
       "title":"How To Draw People",
@@ -110,8 +107,9 @@
       "image_step_28": "",
       "image_step_29": "",
       "image_step_30": ""
-    }
-  ,{
+      "image_step_30": ""
+    },
+    {
       "id": 3,
       "name_draw": "Kim Taehyung BTS",
       "cover_draw": "kimtaehyoung/c1.webp",
@@ -145,8 +143,8 @@
       "image_step_28": "",
       "image_step_29": "",
       "image_step_30": ""
-    }
-  ,{
+    },
+    {
       "id": 4,
       "name_draw": "J Hope BTS",
       "cover_draw": "jhope/d16.webp",
@@ -180,8 +178,9 @@
       "image_step_28": "",
       "image_step_29": "",
       "image_step_30": ""
-    }
-  ,{
+      "image_step_30": ""
+    },
+    {
       "id": 5,
       "name_draw": "Jin BTS",
       "cover_draw": "jinbts/e17.webp",
@@ -215,7 +214,9 @@
       "image_step_28": "",
       "image_step_29": "",
       "image_step_30": ""
-    },{
+      "image_step_30": ""
+    },
+    {
       "id": 6,
       "name_draw": "Suga BTS",
       "cover_draw": "sugabts/f16.webp",
