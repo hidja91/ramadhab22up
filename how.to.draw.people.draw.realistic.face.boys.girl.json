@@ -3,8 +3,8 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
+      "main_ads_banner": "ca-app-pub-3459782106934381/9702214139",
+      "main_ads_intertitial":"ca-app-pub-3459782106934381/1823724114",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "interval_intertitial": 5,
@@ -17,9 +17,9 @@
       "high_paying_keyword_5": "shutterstock",
       "status_app": "0",
       "link_redirect": "https://"
-      }
-   ],
-  "More":
+    }
+  ],
+   "More":
   [
     {
       "title":"How To Draw People",
@@ -42,7 +42,7 @@
       "id": 1,
       "name_draw": "Draw Girl 1",
       "cover_draw": "girl1/a1.webp",
-	  "image_step_1": "girl1/a1.webp",
+      "image_step_1": "girl1/a1.webp",
       "image_step_2": "girl1/a2.webp",
       "image_step_3": "girl1/a3.webp",
       "image_step_4": "girl1/a4.webp",
@@ -53,7 +53,7 @@
       "image_step_9": "girl1/a9.webp",
       "image_step_10": "girl1/a10.webp",
       "image_step_11": "girl1/a11.webp",
-	  "image_step_12": "girl1/a12.webp",
+      "image_step_12": "girl1/a12.webp",
       "image_step_13": "girl1/a13.webp",
       "image_step_14": "girl1/a14.webp",
       "image_step_15": "",
@@ -88,7 +88,7 @@
       "image_step_9": "girl2/b10.webp",
       "image_step_10": "girl2/b11.webp",
       "image_step_11": "",
-	  "image_step_12": "",
+      "image_step_12": "",
       "image_step_13": "",
       "image_step_14": "",
       "image_step_15": "",
@@ -107,8 +107,8 @@
       "image_step_28": "",
       "image_step_29": "",
       "image_step_30": ""
-    }
-    ,{
+    },
+    {
       "id": 3,
       "name_draw": "Draw Girl 3",
       "cover_draw": "girl3/c1.webp",
@@ -123,7 +123,7 @@
       "image_step_9": "girl3/c10.webp",
       "image_step_10": "girl2/b11.webp",
       "image_step_11": "",
-	  "image_step_12": "",
+      "image_step_12": "",
       "image_step_13": "",
       "image_step_14": "",
       "image_step_15": "",
@@ -142,8 +142,8 @@
       "image_step_28": "",
       "image_step_29": "",
       "image_step_30": ""
-    } 
-	,{
+    },
+    {
       "id": 4,
       "name_draw": "Draw Boy 1",
       "cover_draw": "boy1/d1.webp",
@@ -177,8 +177,8 @@
       "image_step_28": "",
       "image_step_29": "",
       "image_step_30": ""
-    }
-	,{
+    },
+    {
       "id": 5,
       "name_draw": "Draw Girl 4",
       "cover_draw": "girl4/e1.webp",
@@ -212,7 +212,8 @@
       "image_step_28": "",
       "image_step_29": "",
       "image_step_30": ""
-    },{
+    },
+    {
       "id": 6,
       "name_draw": "Draw Boy 2",
       "cover_draw": "boy2/f10.webp",
@@ -227,7 +228,7 @@
       "image_step_9": "boy2/f9.webp",
       "image_step_10": "boy2/f10.webp",
       "image_step_11": "",
-	  "image_step_12": "",
+      "image_step_12": "",
       "image_step_13": "",
       "image_step_14": "",
       "image_step_15": "",
