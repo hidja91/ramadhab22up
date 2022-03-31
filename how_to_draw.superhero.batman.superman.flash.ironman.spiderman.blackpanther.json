@@ -1,16 +1,17 @@
 {
   "Ads": [
-      {
+    {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-3459782106934381/4257196203",
       "main_ads_intertitial":"ca-app-pub-3459782106934381/8255262917",
-      "native_for_admob":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
       "high_paying_keyword_1": "jira Software",
       "high_paying_keyword_2": "flutter",
       "high_paying_keyword_3": "adobe Photoshop",
