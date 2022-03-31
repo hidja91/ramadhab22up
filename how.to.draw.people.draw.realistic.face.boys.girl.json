@@ -1,6 +1,6 @@
 {
   "Ads": [
-      {
+    {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"ADMOB",
       "main_ads_banner": "ca-app-pub-3459782106934381/9398079921",
